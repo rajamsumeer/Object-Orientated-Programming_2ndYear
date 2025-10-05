@@ -11,7 +11,7 @@ Shape based off Student ID: Rectangle
 
 ## Sources (across all files):
 - PPPGUI (share folder) e.g Graph.h
-- Gareth's Lectures: 07, 08, 09, 10, 11, 12, 13, 14
+- Lectures 07-14
 - bool: Lecture 07
 - Classes: Lecture 07
 - Inheritance: Lecture 10
@@ -53,4 +53,5 @@ int main()
     }    
     /* Exit */
     win.wait_for_button();
+
 }
